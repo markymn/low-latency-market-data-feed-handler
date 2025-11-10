@@ -21,8 +21,10 @@ Makefile
 *.swo
 
 # Data files (too large for git)
+data/*.NASDAQ_ITCH50
 data/*.itch
-data/*.pcap
+data/*.gz
+data/*.bin
 
 # But keep the data folder
 !data/.gitkeep
