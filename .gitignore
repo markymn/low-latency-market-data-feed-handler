@@ -1,0 +1,23 @@
+# Build directories
+build/
+bin/
+lib/
+*.exe
+*.o
+*.obj
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swn
+*~
+
+# Local artifacts
+results.txt
+benchmark_results.txt
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
